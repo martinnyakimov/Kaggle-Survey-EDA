@@ -37,6 +37,3 @@ For the fourth year, <a href="https://www.kaggle.com/">Kaggle</a> surveyed its c
     <td><img src="images/platforms.png" width="1000"></td>
   </tr>
 </table>
-<p align="center">
-<img src="images/salary.png">
-</p>
